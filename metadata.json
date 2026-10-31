@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Smart Factory Bottleneck Prediction",
+  "description": "Industrial IoT production line telemetry, physics-coupled factory simulation, and explainable bottleneck risk prediction platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
